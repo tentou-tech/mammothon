@@ -1,6 +1,6 @@
 # Submission for the Mammothon 2025
 
-- Demo site: https://hackathon.sqrfund.ai/
+- Demo site: 
 - Source code:
   - [Frontend Website](https://github.com/tentou-tech/mammothon-fe)
   - [Backend Service](https://github.com/tentou-tech/prism-be)

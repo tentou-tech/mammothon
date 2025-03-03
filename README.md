@@ -1,5 +1,11 @@
 # Submission for the Mammothon 2025
 
+## Prism Passport
+- Intro
+  Prism Passport is a simple application where users can link their social accounts to a wallet and create a passport for themselves. The passport is secured by [Prism](https://x.com/prism_xyz) and [Reclaim protocol](https://reclaimprotocol.org/) so that no one, including the service provider can maliciously replace their identity without being detected.
+
+  Prism Passport is participaing in the [Web Proof](https://docs.prism.rs/mammothon/reclaim.html) categry for the Mammothon 2025
+
 - Demo site: https://mammothon-fe-umber.vercel.app/
 - Source code:
   - [Frontend Website](https://github.com/tentou-tech/mammothon-fe)
